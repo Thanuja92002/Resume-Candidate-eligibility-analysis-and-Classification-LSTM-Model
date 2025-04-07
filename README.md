@@ -1,7 +1,7 @@
 # Resume-Candidate-eligibility-analysis-and-Classification-LSTM-Model
 # Project Workflow
 
-#1. Data Collection
+# 1. Data Collection
 Collected labeled resume datasets splitted into test.csv and train .csv.
 
 Each sample includes resume text and a corresponding eligibility label (e.g., suitable or not suitable).
